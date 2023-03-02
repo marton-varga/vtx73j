@@ -4,8 +4,6 @@
 #include <math.h>
 #include <time.h>
 
-#define FILENAME "asd.txt"
-
 int randomNumber(int i){
 	rand()%i;
 }
